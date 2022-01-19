@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://im3.ezgif.com/tmp/ezgif-3-433429a3d8.gif" title='SimpleToDoGif' width='250' alt='SimpleToDoGif' />
+<img src="https://im3.ezgif.com/tmp/ezgif-3-70b65703aa.gif" title='SimpleToDoGif' width='250' alt='SimpleToDoGif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
